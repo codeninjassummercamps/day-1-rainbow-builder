@@ -76,7 +76,7 @@ player.onChat("rainbow", function () {
 
 ## Step 6
 
-Now we have code for the agent place the first block and move to the next spot. Can it place a block right away? No, we need to get the next color of concrete first! Get the Orange Concrete!
+Now we have code for the agent to place the first block and move to the next spot. Can it place a block right away? No, we need to get the next color of concrete first! Get the Orange Concrete!
 
 ```blocks
 player.onChat("rainbow", function () {
